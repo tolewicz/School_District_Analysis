@@ -1,5 +1,10 @@
 # School_District_Analysis_Challenge
 
+Conducting statistical analysis on school performance in the district
+After initial analysis, there was request change of the supply data due to suspect of misconduct of the group of students.
+The grades of the 9th graders from one Thomas Highschool were set to "nan"
+
+The analysis is based on data with "nan" correction
 
 ## Results report 
 Thomas High School was ranked a 2nd high school in the district before revealing misconduct. Replacing grades of 9th grades from Thomas High School will have impact on performance of the whole district and school itself. 
