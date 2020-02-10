@@ -1,22 +1,24 @@
 # School_District_Analysis_Challenge
 
+
+## Results report 
 Thomas High School was ranked a 2nd high school in the district before revealing misconduct. Replacing grades of 9th grades from Thomas High School will have impact on performance of the whole district and school itself. 
 
 Details of the impact are as follows: 
-*District performance impact: 
+* District performance impact: 
 **	Removing Thomas High School slightly lowers the performance of the whole district regarding the passing percentage
 **	Percentage of student passing math, reading and both exams is lower by 1%
 
 (Table 1)
 
-*The school summary impact:
+* The school summary impact:
 ** Correction will lower Average Math Score, Average Reading Score, Percentage Passing Math, Percentage Passing Reading, and Overall Passing, (results in the table)
 ** Total Budget and per student budget will not be affected
 
 (Table 2)
 
 
-*Thomas High School’s performance, relative to the other schools impact:
+* Thomas High School’s performance, relative to the other schools impact:
 **	Thomas fall in the following ranks: 
 ** Overall passing percentage rank from 2nd to 8th position in 
 ** Reading passing percentage rank from 1st to 15th position
@@ -24,7 +26,7 @@ Details of the impact are as follows:
 
 (Picture 3)
 
-*Math and Reading Scores by Grade
+* Math and Reading Scores by Grade
 **	Replacing the 9th grade scores will not affect scores of 10th, 11th and 11th grades.
 **	9th graders from Thomas High School’s will be in the bottom the student rankings
 * Scores by School Spending will not be affected by correction 
