@@ -6,35 +6,38 @@ Thomas High School was ranked a 2nd high school in the district before revealing
 
 Details of the impact are as follows: 
 * District performance impact: 
-**	Removing Thomas High School slightly lowers the performance of the whole district regarding the passing percentage
-**	Percentage of student passing math, reading and both exams is lower by 1%
+  **	Removing Thomas High School slightly lowers the performance of the whole district regarding the passing percentage
+  **	Percentage of student passing math, reading and both exams is lower by 1%
 
 (Table 1)
 
 ![](/Resources/Images/Table1.PNG)
 
 * The school summary impact:
-** Correction will lower Average Math Score, Average Reading Score, Percentage Passing Math, Percentage Passing Reading, and Overall Passing, (results in the table)
-** Total Budget and per student budget will not be affected
+  * Correction will lower Average Math Score, Average Reading Score, Percentage Passing Math, Percentage Passing Reading, and Overall Passing, (results in the table)
+  * Total Budget and per student budget will not be affected
 
 (Table 2)
 
+![](/Resources/Images/Table2.PNG)
 
 * Thomas High School’s performance, relative to the other schools impact:
-**	Thomas fall in the following ranks: 
-** Overall passing percentage rank from 2nd to 8th position in 
-** Reading passing percentage rank from 1st to 15th position
-** Math passing rank percentage rank from 7th to 9th position
+  *	Thomas fall in the following ranks: 
+  * Overall passing percentage rank from 2nd to 8th position in 
+  * Reading passing percentage rank from 1st to 15th position
+  * Math passing rank percentage rank from 7th to 9th position
 
-(Picture 3)
+(Table 3)
+
+![](/Resources/Images/Table3.PNG)
 
 * Math and Reading Scores by Grade
-**	Replacing the 9th grade scores will not affect scores of 10th, 11th and 11th grades.
-**	9th graders from Thomas High School’s will be in the bottom the student rankings
+  *	Replacing the 9th grade scores will not affect scores of 10th, 11th and 11th grades.
+  *	9th graders from Thomas High School’s will be in the bottom the student rankings
 * Scores by School Spending will not be affected by correction 
 *	Scores by School Size, and Scores by School Type? 
-**	By school type Thomas Highschool will move from 2nd position to 6th
-**	By school size from 2nd to 5th in overall passing percentage
+  *	By school type Thomas Highschool will move from 2nd position to 6th
+  *	By school size from 2nd to 5th in overall passing percentage
 
 
 
