@@ -13,7 +13,7 @@ Details of the impact are as follows:
 * District performance impact: 
   *	Removing Thomas High School slightly lowers the performance of the whole district regarding the passing percentage
   *	Percentage of student passing math, reading and both exams is lower by 1%
-  * Total number of students passing both exams decreased from ..... to 25,105
+  * Total number of students passing both exams decreased from 25,528 to 25,105
 
 (Table 1)
 
