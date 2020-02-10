@@ -10,7 +10,7 @@ Details of the impact are as follows:
 **	Percentage of student passing math, reading and both exams is lower by 1%
 
 (Table 1)
-![]https://github.com/tolewicz/School_District_Analysis/blob/master/Resources/Images/Table1.PNG
+![]/Resources/Images/Table1.PNG
 
 * The school summary impact:
 ** Correction will lower Average Math Score, Average Reading Score, Percentage Passing Math, Percentage Passing Reading, and Overall Passing, (results in the table)
