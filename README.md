@@ -25,7 +25,7 @@ Details of the impact are as follows:
 
 (Table 2)
 
-![](/Resources/Images/Table 2.PNG)
+![](/Resources/Images/Table%202.PNG)
 
 * Thomas High School’s performance, relative to the other schools impact:
   *	Thomas fall in the following ranks: 
