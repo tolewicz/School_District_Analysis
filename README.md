@@ -1,20 +1,13 @@
 # School_District_Analysis
 
 ## Project Overview
-
-A Colorado Board Elections employee requested following task to complete the audit of a recent local congressional election:
-1.	Calculate the total vote count 
-2.	Determine the winner of the elections
-## Resources
--	Data source: election_results.cvs
--	Software: Python 3.7.6, Visual studio code
-- PyPoll_Challenge.py program 
-
-# School_District_Analysis_Challenge
-
-## Project Overview
 Conducting statistical analysis on school performance in the district
 Investigate performance dependence based on budget, and size of the school
+
+## Resources
+-	Data source: schools_complete.csv , students_complete.csv
+-	Software: Python 3.7.6, Visual studio code
+- PyCitySchools_Challenge.ipynb program 
 
 ## Challenge overview
 After initial analysis, there was request change of the supply data due to suspect of misconduct of the group of students.
