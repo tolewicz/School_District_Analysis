@@ -1,10 +1,27 @@
+# School_District_Analysis
+
+## Project Overview
+
+A Colorado Board Elections employee requested following task to complete the audit of a recent local congressional election:
+1.	Calculate the total vote count 
+2.	Determine the winner of the elections
+## Resources
+-	Data source: election_results.cvs
+-	Software: Python 3.7.6, Visual studio code
+- PyPoll_Challenge.py program 
+
 # School_District_Analysis_Challenge
 
+## Project Overview
 Conducting statistical analysis on school performance in the district
+Investigate performance dependence based on budget, and size of the school
+
+## Challenge overview
 After initial analysis, there was request change of the supply data due to suspect of misconduct of the group of students.
 The grades of the 9th graders from one Thomas Highschool were set to "nan"
 
-The analysis is based on data with "nan" correction
+Redo the analysis is based on data with "nan" correction
+Assessed impact of removing 423 students from the analysis
 
 ## Results report 
 Thomas High School was ranked a 2nd high school in the district before revealing misconduct. Replacing grades of 9th grades from Thomas High School will have impact on performance of the whole district and school itself. 
