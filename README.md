@@ -35,7 +35,7 @@ Details of the impact are as follows:
 
 (Table 3)
 
-![](/Resources/Images/Table 3.PNG)
+![](/Resources/Images/Table%203.PNG)
 
 * Math and Reading Scores by Grade
   *	Replacing the 9th grade scores will not affect scores of 10th, 11th and 11th grades.
