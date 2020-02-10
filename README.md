@@ -25,7 +25,7 @@ Details of the impact are as follows:
 
 (Table 2)
 
-![](/Resources/Images/Table2.PNG)
+![](/Resources/Images/Table 2.PNG)
 
 * Thomas High School’s performance, relative to the other schools impact:
   *	Thomas fall in the following ranks: 
@@ -35,7 +35,7 @@ Details of the impact are as follows:
 
 (Table 3)
 
-![](/Resources/Images/Table3.PNG)
+![](/Resources/Images/Table 3.PNG)
 
 * Math and Reading Scores by Grade
   *	Replacing the 9th grade scores will not affect scores of 10th, 11th and 11th grades.
