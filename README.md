@@ -51,7 +51,7 @@ Details of the impact are as follows:
   *	Replacing the 9th grade scores will not affect scores of 10th, 11th and 11th grades.
   *	9th graders from Thomas High School’s will be in the bottom the student rankings
 * Scores by School Spending will not be affected by correction 
-*	Scores by School Size, and Scores by School Type? 
+*	Scores by School Size, and Scores by School Type 
   *	By school type Thomas Highschool will move from 2nd position to 6th
   *	By school size from 2nd to 5th in overall passing percentage
 
