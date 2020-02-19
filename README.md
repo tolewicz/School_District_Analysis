@@ -52,8 +52,8 @@ Details of the impact are as follows:
   *	9th graders from Thomas High School’s will be in the bottom the student rankings
 * Scores by School Spending will not be affected by correction 
 *	Scores by School Size, and Scores by School Type 
-  *	By school type Thomas Highschool will move from 2nd position to 6th
-  *	By school size from 2nd to 5th in overall passing percentage
+  **	By school type Thomas Highschool will move from 2nd position to 6th
+  **	By school size from 2nd to 5th in overall passing percentage
 
 
 
