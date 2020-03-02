@@ -27,7 +27,7 @@ Details of the impact are as follows:
 
 (Table 1)
 
-![](/Resources/Images/Table1.PNG)
+![](/Resources/Images/Table1.PNG =250x250)
 
 * The school summary impact:
   * Correction will lower Average Math Score, Average Reading Score, Percentage Passing Math, Percentage Passing Reading, and Overall Passing, (results in the table)
